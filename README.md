@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wei Seng
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Spring and Java
 
 <!---
